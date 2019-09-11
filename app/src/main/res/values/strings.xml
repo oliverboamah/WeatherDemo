@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Demo</string>
+    <string name="weather_image">weather image</string>
+    <string name="degrees">20</string>
+    <string name="weather_title">Partly Cloudy</string>
+    <string name="weather_description">Slightly humid with a gentle breeze in the atmosphere</string>
+    <string name="day">Thursday</string>
+</resources>
